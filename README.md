@@ -1,5 +1,5 @@
 # ML-DataClassification
-Classify MAGIC data set using 5 different classification models
+Classify MAGIC data set using 5 different classification models.
 ### Classification models
 1. Decision Trees.
 2. Random Forests.
